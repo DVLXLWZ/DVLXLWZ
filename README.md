@@ -5,5 +5,3 @@ I’m an undergraduate student who is interested to algebraic geometry.
 > <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DVLXLWZ" /> </div>
 
 > <img src="https://metrics.lecoq.io/DVLXLWZ?template=classic&config.timezone=Asia%2FShanghai" /> </div>
-
-> <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DVLXLWZ&theme=xcode" /> </div>
