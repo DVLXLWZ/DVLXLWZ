@@ -1,4 +1,4 @@
-I’m an graduated student who is working on the algebraic geometry.
+I’m a graduated student who is working on the algebraic geometry.
 
 > My ![Visitor Count](https://profile-counter.glitch.me/DVLXLWZ/count.svg) visitors.
 
